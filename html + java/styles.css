@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #cc5252;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    padding: 15px;
+    border: 2px solid rgb(71, 48, 48);
+    background-color: rgb(184, 153, 153);
+}
+
+button {
+    margin: 8px;
+    padding: 10px;
+    cursor: pointer;
+}
